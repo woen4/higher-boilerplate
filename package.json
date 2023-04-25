@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@woen4/higher": "^0.0.80"
+    "@woen4/higher": "^0.0.80",
+    "fastify": "^4.15.0",
+    "zod": "^3.21.4"
   }
 }
